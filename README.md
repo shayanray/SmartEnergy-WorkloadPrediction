@@ -4,7 +4,9 @@ Workload prediction on time-series data for the Smart Energy Topic using advance
 # ML Techniques used:
 
 K-Nearest Neighbors
+
 Linear Regression 
+
 Random Forest
 
 Data-source used for predictions: 
